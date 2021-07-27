@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sami1309
-- 👀 I’m interested in machine learning, education, and using technology to advance the human experience.
-- 🌱 I’m currently learning data science, concurrency, full-stack development
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning MLOps, full-stack dev and how to make a fortune with crappy NFT art
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me via here or my website
 
