@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sami1309
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning MLOps, full-stack dev and how to make a fortune with crappy NFT art
+- 🌱 I’m currently learning MLOps, full-stack dev and how to stop worrying and love the LLM
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me via here or my website
 
