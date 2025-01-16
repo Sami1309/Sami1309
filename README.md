@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sami1309
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning MLOps, full-stack dev and how to stop worrying and love the LLM
+- 🌱 I’m currently learning ways to maximize the value of AI models
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me via here or my website
 
