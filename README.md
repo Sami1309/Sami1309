@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Sami1309
-- 👀 I’m interested in AI, innovative applications and leveraging emerging machine intelligence
-- 🌱 I’m currently learning ways to maximize the value of AI models
-- 💞️ I’m looking to collaborate on anything interesting!
+- Working on AI evals, tools to help supercharge industries with LLM's, and anything interesting
 
 <!---
 Sami1309/Sami1309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
